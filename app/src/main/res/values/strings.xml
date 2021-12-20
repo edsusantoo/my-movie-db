@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Movie DB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="award">Award</string>
+    <string name="favorite">Favorite</string>
+    <string name="home">Home</string>
+    <string name="marker">Marker</string>
+    <string name="movie">Movie</string>
+    <string name="minus">-</string>
+    <string name="moviedb">MovieDB</string>
+    <string name="bell">Bell</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="poster">Poster</string>
+    <string name="hd">HD</string>
+    <string name="your_current_location">Your current location</string>
+</resources>
